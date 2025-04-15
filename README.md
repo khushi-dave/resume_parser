@@ -1,1 +1,1 @@
-# resume_parser
+This is a Resume Parser, a simple Streamlit app that lets you upload a resume (PDF or DOCX) and instantly pulls out useful info like name, email, phone number, skills, education, and work experience. It uses NLP (via spaCy) to understand and extract details. Just run the app, upload a resume, and you'll see the parsed details in a clean, editable format.
